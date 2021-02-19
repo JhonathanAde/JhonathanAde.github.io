@@ -241,6 +241,16 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.aboutimg-wrapper {
+		/* background-color: blue; */
+		height: 20rem;
+	}
+
+	.aboutimg-wrapper img {
+		height: 20rem;
+		padding: 0rem 0rem 1rem 0rem;
+	}
+
 /* Container */
 
 	.container {
