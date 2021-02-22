@@ -2582,6 +2582,10 @@ input, select, textarea {
 			margin: 0;
 		}
 
+		.work-item #proj1 {
+			font-weight: bold;
+		}
+
 /* Header */
 
 	#header {
@@ -3229,3 +3233,9 @@ input, select, textarea {
 			}
 
 	}
+
+	/* Tech Descriptions */
+
+		#proj1 {
+			font-weight: bold;
+		}
